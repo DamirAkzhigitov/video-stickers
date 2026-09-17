@@ -1,0 +1,12 @@
+title: TBD
+short_name: TBD
+cover: smug
+
+stickers:
+  - file: dist/smug.webm
+    source: source/smug.mp4
+    emoji: "😏"
+    notes: >
+      Live-action lounge selfie. Source is 6.04s 480x640 with audio.
+      Encoded from t=3.10s (last ~2.9s) so the smug hold fits Telegram's
+      3s limit and loops better than the full reaction. CRF 24, ~235 KB.
